@@ -4,5 +4,16 @@
   "artist": "CLAMP",
   "author": "CLAMP",
   "cover": "https://cdn.mangaupdates.com/image/i243521.png",
-  "chapters": {}
+  "chapters": {
+    "57": {
+      "title": "57",
+      "volume": "",
+      "last_updated": "1748218900",
+      "groups": {
+        "LD Works": [
+          "https://imgchest.com/p/agyvq3plz48"
+        ]
+      }
+    }
+  }
 }
